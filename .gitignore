@@ -1,0 +1,14 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+remix_-flash-ui/node_modules/
+
+# Package lock
+package-lock.json
+
+# Vite cache
+remix_-flash-ui/node_modules/.vite/
+
+```
